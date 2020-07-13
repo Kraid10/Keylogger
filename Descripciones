@@ -1,0 +1,8 @@
+Keylogger: captura las pulsaciones del teclado de una computadora en donde instales el programa y envialos a tu correo
+
+Para poder utilizarlo, debes instalar la librería keyboard con el comando
+pip install keyboard
+
+Si utilizas Gmail para enviar el correo, puede que te de un error al tratar de acceder a tu cuenta, esto debido a la configuración de seguridad de Google que bloquea el acceso a tu cuenta desde aplicaciones de terceros, Google te notificará por correo y es ahí donde puedes cambiar la configuración para que puedas utilizar Gmail para enviar el correo
+
+Puede que al ejecutarlo en linux te pida que lo hagas como usuario root
